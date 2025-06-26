@@ -16,5 +16,10 @@ A basic weather app written in HTML, CSS, and JavaScript to check the weather in
   - search.png
   - snow.png
   - wind.png
+ 
+## **Donwload & Installation**
+- Fork the repository
+- Save the folder in your preferred destination
+- Open the file *index.html* 
 
  
